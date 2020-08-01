@@ -22,5 +22,11 @@
          "https://img.techpowerup.org/200801/5344.jpg",
          "https://img.techpowerup.org/200801/6969.jpg"
       ]
+   },
+      "request":{
+      "subject":"product.product_name",
+      "type":"Duplicate Product",
+      "date":"01/01/2020",
+      "description":"Id erat tellus orci est rutrum fringilla velit vestibulum habitant vulputate taciti convallis euismod, rutrum consequat senectus ultrices class vehicula."
    }
 }

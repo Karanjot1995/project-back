@@ -15,12 +15,18 @@
       "store_name":"The Hair Store",
       "store_location":"Oldbridge, Clonmel, Co. Tipperary, Ireland",
       "images":[
-         "https://img.techpowerup.org/200801/1498.jpg",
-         "https://img.techpowerup.org/200801/2500.jpg",
-         "https://img.techpowerup.org/200801/3953.jpg",
-         "https://img.techpowerup.org/200801/4925.jpg",
-         "https://img.techpowerup.org/200801/5344.jpg",
-         "https://img.techpowerup.org/200801/6969.jpg"
+         "./images/product/1.jpg",
+         "./images/product/2.jpg",
+         "./images/product/3.jpg",
+         "./images/product/4.jpg",
+         "./images/product/5.jpg",
+         "./images/product/6.jpg",
+         "./images/product/1.jpg",
+         "./images/product/2.jpg",
+         "./images/product/3.jpg",
+         "./images/product/4.jpg",
+         "./images/product/5.jpg",
+         "./images/product/6.jpg"
       ]
    }
 }

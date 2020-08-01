@@ -1,32 +1,32 @@
-{ 
-  user :{
-    name:"Mark Collins",
-    phone: "35467456846",
-    email: "jenny_example@email.com",
-    location: "Dromoland, Newmarket on Fergus, Co. Clare, V95 ATD3, Ireland",
-    avatar: "./images/profile.png"
-  },
-   product:{
-    product_name: "Ghost Bond XL 1.3oz",
-    batch_number: "BCGB1.3",
-    product_number: "BCGB1",
-    scan_id: "DG34XDvfg4F",
-    expiry: "01/12/2020",
-    store_name: "The Hair Store",
-    store_location: "Oldbridge, Clonmel, Co. Tipperary, Ireland",
-    images: [
-      './images/product/1.jpg',
-      './images/product/2.jpg',
-      './images/product/3.jpg',
-      './images/product/4.jpg',
-      './images/product/5.jpg',
-      './images/product/6.jpg',
-      './images/product/1.jpg',
-      './images/product/2.jpg',
-      './images/product/3.jpg',
-      './images/product/4.jpg',
-      './images/product/5.jpg',
-      './images/product/6.jpg'
-    ]
-  }
+{
+   "user":{
+      "name":"Mark Collins",
+      "phone":"35467456846",
+      "email":"jenny_example@email.com",
+      "location":"Dromoland, Newmarket on Fergus, Co. Clare, V95 ATD3, Ireland",
+      "avatar":"./images/profile.png"
+   },
+   "product":{
+      "product_name":"Ghost Bond XL 1.3oz",
+      "batch_number":"BCGB1.3",
+      "product_number":"BCGB1",
+      "scan_id":"DG34XDvfg4F",
+      "expiry":"01/12/2020",
+      "store_name":"The Hair Store",
+      "store_location":"Oldbridge, Clonmel, Co. Tipperary, Ireland",
+      "images":[
+         "./images/product/1.jpg",
+         "./images/product/2.jpg",
+         "./images/product/3.jpg",
+         "./images/product/4.jpg",
+         "./images/product/5.jpg",
+         "./images/product/6.jpg",
+         "./images/product/1.jpg",
+         "./images/product/2.jpg",
+         "./images/product/3.jpg",
+         "./images/product/4.jpg",
+         "./images/product/5.jpg",
+         "./images/product/6.jpg"
+      ]
+   }
 }
